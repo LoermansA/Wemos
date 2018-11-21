@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/loermansa/.platformio/penv/bin:/home/loermansa/.platformio/penv:/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/loermansa/Android/Sdk/tools:/home/loermansa/Android/Sdk/platform-tools:/home/loermansa/.yarn/bin:/home/loermansa/.config/yarn/global/node_modules/.bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
